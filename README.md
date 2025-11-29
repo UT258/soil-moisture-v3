@@ -10,8 +10,7 @@ An intelligent, next-generation soil moisture monitoring and early warning syste
 - Kalyan Joshi (2237201)
 - Tej Pratap Singh (2237292)
 
-**Guide:** Dr. Preeti Bansal  
-**Institution:** Chandigarh Engineering College – CGC Landran, Mohali
+
 
 ## Features
 
@@ -218,17 +217,9 @@ This is an academic project. For collaboration inquiries, please contact the tea
 
 MIT License - See LICENSE file for details
 
-## Acknowledgments
 
-- **Guide:** Dr. Preeti Bansal
-- **Institution:** Chandigarh Engineering College, CGC Landran
-- **Affiliated to:** PTU, Jalandhar
 
 ## Contact
 
 For questions or support, contact the development team through the institution.
 
----
-
-**Session:** 2022-26  
-**Department:** Electronics & Communication Engineering
